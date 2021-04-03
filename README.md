@@ -1,6 +1,6 @@
 #Task-Generator.ps1 
 
-This script allows to configure schedule task to genrete notpad pop up window with tex
+This script allows to configure schedule task to genrete notpad pop up window with text
 
 #mytask.ps1 
 
